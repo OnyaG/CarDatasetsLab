@@ -90,6 +90,11 @@ AdaMax - оптимизатор на основе Adam (— adaptive moment esti
 
 
 ## Описание разработанной системы
+Были загружены данные для обработки
+![image](https://github.com/user-attachments/assets/cb4f1917-98f3-4c20-94e4-519fd47a7fca)
+
+- [В процессе](https://colab.research.google.com/drive/1pXTR-uS6GNCXnijmYjQyhlvU4ERUHH74?usp=sharing)
+
 ---
 ## Результаты работы и тестирования системы
 ---
