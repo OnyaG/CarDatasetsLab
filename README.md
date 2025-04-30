@@ -87,19 +87,22 @@ AdaMax - оптимизатор на основе Adam (— adaptive moment esti
 
 ![image](https://github.com/user-attachments/assets/06cfb312-cebe-4811-8be7-cf54d15e5e3f)
 
-
-
-## Описание разработанной системы
-Были загружены данные для обработки
-![image](https://github.com/user-attachments/assets/cb4f1917-98f3-4c20-94e4-519fd47a7fca)
-
-- [В процессе](https://colab.research.google.com/drive/1pXTR-uS6GNCXnijmYjQyhlvU4ERUHH74?usp=sharing)
-
 ---
 ## Результаты работы и тестирования системы
+
+На рисунке 4 представлен результат обучения нейронной сети ResNet50 с оптимизаторами Adam и AdamMax
+![Снимок экрана 2025-04-30 124935](https://github.com/user-attachments/assets/dc28ff4c-36e3-41a3-bc04-e0c4724721da)
+Рисунок 4
+
+Графики потерь и точности приведены на рисунке 5
+![image](https://github.com/user-attachments/assets/dc2d1ac0-32e1-49bd-b02f-68acca22d734)
+Рисунок 5
+
 ---
 ## Выводы по работе
 В ходе выполнения лабораторной работы, в разделе теоретической базы были рассмотрены **сверточные нейронные сети**, рассмотрена архитектура **ResNet** и оптимизатор **AdaMax**.
+
+
 
 ---
 ## Использованные источники
